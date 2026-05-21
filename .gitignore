@@ -1,0 +1,4 @@
+# Archivos a ignorar por Git
+node_modules
+dist
+.DS_Store
